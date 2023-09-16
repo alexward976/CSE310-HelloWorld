@@ -4,7 +4,7 @@ This is about as simple as it can get. The software showcases JavaScript's abili
 
 Though I have some good experience using JS, sometimes it's good to get down to the nitty-gritty of how simple the language can be. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/cqgDRoR2B_U)
 
 # Development Environment
 
